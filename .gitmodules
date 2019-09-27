@@ -1,3 +1,6 @@
 [submodule "dielectric-metagratings/optimization-method/GLOnet"]
 	path = dielectric-metagratings/optimization-method/GLOnet
 	url = https://github.com/jiaqi65/GLOnet
+[submodule "dielectric-metagratings/optimization-method/Metagrating-Topology-Optimization"]
+	path = dielectric-metagratings/optimization-method/Metagrating-Topology-Optimization
+	url = https://github.com/evanwang13/Metagrating-Topology-Optimization
